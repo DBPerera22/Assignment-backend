@@ -1,4 +1,4 @@
-﻿namespace Asignment_backend
+﻿namespace Asignment_backend.Models
 {
     public class MontyHallGame
     {
